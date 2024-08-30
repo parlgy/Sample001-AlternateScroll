@@ -16,9 +16,7 @@ const HomePage = () => {
                 {/* <div className="frame">
                     <h1 className="frame__title">Alternate Column Scroll</h1>
                     <nav className="frame__links">
-                        <a href="https://tympanus.net/codrops/2021/12/01/grid-zoom-layout/">Previous demo</a>
-                        <a href="https://tympanus.net/codrops/?p=57959">Article</a>
-                        <a href="https://github.com/codrops/ColumnScroll/">GitHub</a>
+                        <a href="">Link</a>
                     </nav>
                     <button className="unbutton button-menu" aria-label="Open the menu"><span></span></button>
                 </div> */}
